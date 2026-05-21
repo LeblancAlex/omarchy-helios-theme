@@ -1,6 +1,6 @@
 # Omarchy Sun Theme
 
-A warm, solar and eclipse theme for [Omarchy](https://omarchy.org). Inspired by [steve-lohmeyer/omarchy-mars-theme](https://github.com/steve-lohmeyer/omarchy-mars-theme).
+A orange-gold, sun and eclipse theme for [Omarchy](https://omarchy.org). Inspired by [steve-lohmeyer/omarchy-mars-theme](https://github.com/steve-lohmeyer/omarchy-mars-theme).
 
 <p align="center">
   <img src="theme.png" alt="Sun Theme Preview">
